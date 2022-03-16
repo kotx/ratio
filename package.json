@@ -1,6 +1,6 @@
 {
-  "name": "slshx-starter",
-  "version": "1.0.0",
+  "name": "ratio",
+  "version": "0.1.0",
   "type": "module",
   "module": "dist/index.mjs",
   "private": true,

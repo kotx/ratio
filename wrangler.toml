@@ -1,10 +1,8 @@
-name = "slshx-starter"
+name = "ratio"
 type = "javascript"
 
-account_id = "" # TODO: add your Cloudflare account ID here
+account_id = ""
 workers_dev = true
-# route = ""
-# zone_id = ""
 
 compatibility_date = "2021-12-27"
 compatibility_flags = []
