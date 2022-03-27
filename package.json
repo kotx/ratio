@@ -9,11 +9,13 @@
     "deploy:global": "node --no-warnings --experimental-vm-modules scripts/deploy.js"
   },
   "dependencies": {
+    "discord-emoji-converter": "^1.2.5",
+    "gemoji": "^7.1.0",
     "slshx": "^0.3.0"
   },
   "devDependencies": {
-    "@cloudflare/workers-types": "^3.3.0",
-    "esbuild": "^0.14.8",
+    "@cloudflare/workers-types": "^3.4.0",
+    "esbuild": "^0.14.28",
     "miniflare": "^2.3.0"
   }
 }

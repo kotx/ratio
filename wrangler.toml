@@ -1,11 +1,15 @@
 name = "ratio"
 type = "javascript"
 
-account_id = ""
+account_id = "afdc9b319dc9eb7543f28d8e7cd900c0"
 workers_dev = true
 
 compatibility_date = "2021-12-27"
 compatibility_flags = []
+
+kv_namespaces = [
+    { binding = "KV_NAMESPACE", id = "24054ad2d2f242ff81ecaceb279177da" },
+]
 
 [build]
 command = "node scripts/build.js production"

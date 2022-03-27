@@ -1,0 +1,1 @@
+declare module 'discord-emoji-converter/dist/discord-emoji-converter.min.js';
